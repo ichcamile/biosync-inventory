@@ -30,8 +30,7 @@ biosync-inventory/
 ├── create\_tables.sql           # Script SQL para criar banco e dados iniciais
 └── docs/
 ├── README.md               # Documentação
-└── fluxograma.png          # Fluxograma do sistema (inserir imagem)
-
+└── fluxograma.png          # Fluxograma do sistema
 ````
 
 ## ▶️ Como usar
